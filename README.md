@@ -1,3 +1,2 @@
-# GitHub Achievement.
-
-Update #0: More PR farming.
+# GitHub Achievement Automation
+Achievement farming test.
